@@ -24,7 +24,7 @@
    <scm>
       <connection>scm:git:https://github.com/Anirudha2411/MavenHelloWorldProject.git</connection>
       <developerConnection>scm:git:https://github.com/Anirudha2411/MavenHelloWorldProject.git</developerConnection>
-      <tag>MavenHelloWorldProject-1.0</tag>
+      <tag>MavenHelloWorldProject-1.0.0</tag>
    </scm>
    	<build>
 		<plugins>
