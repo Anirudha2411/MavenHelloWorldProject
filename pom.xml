@@ -4,7 +4,7 @@
    <groupId>com.jcg.maven</groupId>
    <artifactId>MavenHelloWorldProject</artifactId>
    <packaging>jar</packaging>
-   <version>1.0</version>
+   <version>1.0-SNAPSHOT</version>
    <name>MavenHelloWorldProject</name>
    <url>http://maven.apache.org</url>
    <dependencies>
@@ -24,7 +24,6 @@
    <scm>
       <connection>scm:git:https://github.com/Anirudha2411/MavenHelloWorldProject.git</connection>
       <developerConnection>scm:git:https://github.com/Anirudha2411/MavenHelloWorldProject.git</developerConnection>
-      <tag>MavenHelloWorldProject-1.0</tag>
    </scm>
    	<build>
 		<plugins>
