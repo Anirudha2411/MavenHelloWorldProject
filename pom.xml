@@ -21,6 +21,13 @@
          <url>http://localhost:8081/nexus/content/repositories/MavenWorld</url>
       </repository>
    </distributionManagement>
+   
+   <scm>
+      <connection>scm:git:https://github.com/Anirudha2411/MavenHelloWorldProject.git</connection>
+      <developerConnection>scm:git:https://github.com/Anirudha2411/MavenHelloWorldProject.git</developerConnection>
+    <tag>HEAD_1.1</tag>
+</scm>
+
    	<build>
 		<plugins>
 			<plugin>
